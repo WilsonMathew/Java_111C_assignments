@@ -1,4 +1,8 @@
-public class Recursion1 {
+// Just some practice with recursion
+// This program doesn't have any data validation
+// the recursion ends at 1
+
+public class Factorial {
 
 	static int i = 1;
 
